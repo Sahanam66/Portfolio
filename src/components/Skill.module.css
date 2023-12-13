@@ -1,0 +1,57 @@
+#img{
+    margin-top: 2%;
+    height: 100%;
+    width: 29%;
+    margin-left: -2%;
+}
+#ul{
+    text-align: left;
+  
+}
+#ul li{
+    font-size: 20px;
+    padding: 2%;
+}
+#Typography{
+    margin-top: 2%;
+    text-align: center;
+}
+#button{
+    border: black;
+    background-color:black ;
+    color: white;
+    margin-top: -2%;
+    height: 5vh;
+}
+#AppBar{
+    background-color:black ;
+}
+.card{
+    text-align: center;
+    height:42vh;
+    /* border: 2px solid black; */
+}
+#img3{
+    margin-left: -2%;
+    margin-top: 7%;
+    height: 120%;
+    width: 35%; 
+}
+#img4{
+    margin-left: -2%;
+    margin-top: 7%;
+    height: 120%;
+    width: 35%;  
+}
+#img5{
+    margin-left: -2%;
+    margin-top: 4%;
+    height: 100%;
+    width: 33%; 
+}
+#img6{
+    margin-left: -2%;
+    margin-top: 7%;
+    height: 120%;
+    width: 46%; 
+}

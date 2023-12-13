@@ -1,0 +1,9 @@
+.card{
+    text-align: center;
+    height:42vh;
+}
+a {
+    color: inherit; /* Inherit color from parent element */
+    text-decoration: none; /* Remove underline */
+  }
+  
